@@ -1,0 +1,941 @@
+repo_name: nice-org-two/Sample-ASP.NET-project
+report_id: eb132914074ab6cdf76a3126a986529a
+repo_type: Public
+timestamp: '2023-11-06T13:22:18+00:00'
+requested_by: nkovacic
+provider: github
+branch: master
+detected_tools_count: 77
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: 4.6.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  imageURL: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: Sample.Application/Sample.Application.csproj
+  detection_source: Sample.WebApi/packages.config
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  imageURL: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  imageURL: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  imageURL: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  version: 4.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  imageURL: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: Sample.Application/Sample.Application.csproj
+  detection_source: Sample.WebApi/Sample.WebApi.csproj
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 6.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  imageURL: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  imageURL: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  imageURL: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source: Sample.Web/package.json
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.3.3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  imageURL: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: Entity Framework
+  description: An object-relational mapper that enables .NET developers to work with
+    relational data
+  website_url: https://docs.microsoft.com/en-us/aspnet/entity-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  imageURL: https://img.stackshare.io/service/3251/no-img-open-source.png
+  detection_source: Sample.WebApi/packages.config
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  imageURL: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 2.99.0
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  imageURL: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  imageURL: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  imageURL: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source: Sample.WebApi/packages.config
+- name: Protractor
+  description: End-to-end test framework for Angular and AngularJS applications
+  website_url: http://angular.github.io/protractor
+  version: 5.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  imageURL: https://img.stackshare.io/service/1754/protractor-logo1.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  imageURL: https://img.stackshare.io/service/5561/303157.png
+  detection_source: Sample.Web/package.json
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  imageURL: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  imageURL: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: Sample.Web/package.json
+- name: Antlr
+  description: ANother Tool for Language Recognition
+  package_url: https://www.nuget.org/Antlr
+  version: 3.5.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/13151/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
+  detection_source_url: Sample.Web/packages.config
+  detection_source: Sample.Web/packages.config
+- name: Autofac
+  description: Autofac is an IoC container for Microsoft .NET
+  package_url: https://www.nuget.org/Autofac
+  version: 4.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/12864/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: Sample.Application/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: Autofac.Mvc5
+  description: ASP.NET MVC 5 Integration for Autofac
+  package_url: https://www.nuget.org/Autofac.Mvc5
+  version: 4.0.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/13343/default_4d4f20064faa1a784f764c1e08d3b0e36273065c.png
+  detection_source_url: Sample.Application/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: Autofac.WebApi2
+  description: ASP.NET Web API 2.2 Integration for Autofac
+  package_url: https://www.nuget.org/Autofac.WebApi2
+  version: 4.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/13311/default_bac2e4378e5818ffa4955b20565842bac60d080a.png
+  detection_source_url: Sample.Core/packages.config
+  detection_source: Sample.Core/packages.config
+- name: LinqKit
+  description: LinqKit.EntityFramework contains extensions for LINQ to SQL and Entity
+    Framework
+  package_url: https://www.nuget.org/LinqKit
+  version: 1.1.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/13409/default_58586312c472dfb09866d07812bed5501fb0b524.png
+  detection_source_url: Sample.Application/packages.config
+  detection_source: Sample.Core/packages.config
+- name: Microsoft.ApplicationInsights
+  description: Application Insights Base API
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/13015/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: Sample.Core/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: Microsoft.ApplicationInsights.Agent.Intercept
+  description: This NuGet enables Interception of method calls
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.Agent.Intercept
+  version: 2.4.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/14587/default_04c230a7faf108c837aa3e6d645603d730fef980.png
+  detection_source_url: Sample.Web/packages.config
+  detection_source: Sample.Web/packages.config
+- name: Microsoft.ApplicationInsights.DependencyCollector
+  description: Application Insights Dependency Collector for .NET applications
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.DependencyCollector
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/13741/default_464fb9b438380c5ec98e481823a05b9599991662.png
+  detection_source_url: Sample.Web/packages.config
+  detection_source: Sample.Web/packages.config
+- name: Microsoft.ApplicationInsights.PerfCounterCollector
+  description: Application Insights Performance Counters Collector allows you to send
+    data collected by Performance Counters to Application Insights
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.PerfCounterCollector
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/13849/default_1dc9a9444fe68b18bef2b0e836067caced79799a.png
+  detection_source_url: Sample.Web/packages.config
+  detection_source: Sample.Web/packages.config
+- name: Microsoft.ApplicationInsights.Web
+  description: Application Insights for .NET web applications
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.Web
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/13375/default_4d4f20064faa1a784f764c1e08d3b0e36273065c.png
+  detection_source_url: Sample.Web/packages.config
+  detection_source: Sample.Web/packages.config
+- name: Microsoft.ApplicationInsights.WindowsServer
+  description: Application Insights Windows Server nuget package provides automatic
+    collection of application insights telemetry for .NET applications
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.WindowsServer
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/14056/default_ead9c4c471ac46d45e6810fff3502fe6c044fb23.png
+  detection_source_url: Sample.Web/packages.config
+  detection_source: Sample.Web/packages.config
+- name: Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel
+  description: This nuget provides a telemetry channel to Application Insights Windows
+    Server SDK that will preserve telemetry in offline scenarios
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/14117/default_d7d5794851dadbcf90dc060e882cc3b488ce3484.png
+  detection_source_url: Sample.Web/packages.config
+  detection_source: Sample.Web/packages.config
+- name: Microsoft.AspNet.Cors
+  description: Microsoft.AspNet.Cors
+  package_url: https://www.nuget.org/Microsoft.AspNet.Cors
+  version: 5.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/13276/default_cadeaa4a9968284dcd1223273394c410c31c9d09.png
+  detection_source_url: Sample.WebApi/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: Microsoft.AspNet.Mvc
+  description: ASP.NET MVC is a web framework that gives you a powerful, patterns-based
+    way to build dynamic websites and Web APIs
+  package_url: https://www.nuget.org/Microsoft.AspNet.Mvc
+  version: 5.2.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/12850/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: Sample.Application/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: Microsoft.AspNet.Razor
+  description: Razor is a markup syntax for adding server-side logic to web pages
+  package_url: https://www.nuget.org/Microsoft.AspNet.Razor
+  version: 3.2.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/12930/default_f8bf1110f8f0beaf5fae35865de7f77ccd1139f0.png
+  detection_source_url: Sample.Application/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: Microsoft.AspNet.Web.Optimization
+  description: ASP.NET Optimization introduces a way to bundle and optimize CSS and
+    JavaScript files
+  package_url: https://www.nuget.org/Microsoft.AspNet.Web.Optimization
+  version: 1.1.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/12966/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
+  detection_source_url: Sample.Web/packages.config
+  detection_source: Sample.Web/packages.config
+- name: Microsoft.AspNet.WebApi
+  description: This package contains everything you need to host ASP.NET Web API on
+    IIS
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi
+  version: 5.2.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/12923/default_039376cf26bae25623c106aea6185b89980a1e50.png
+  detection_source_url: Sample.WebApi/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: Microsoft.AspNet.WebApi.Client
+  description: This package adds support for formatting and content negotiation to
+    System.Net.Http
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi.Client
+  version: 5.2.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/12870/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: Sample.Core/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: Microsoft.AspNet.WebApi.Core
+  description: This package contains the core runtime assemblies for ASP.NET Web API
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi.Core
+  version: 5.2.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/12879/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: Sample.Core/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: Microsoft.AspNet.WebApi.WebHost
+  description: This package contains everything you need to host ASP.NET Web API on
+    IIS
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi.WebHost
+  version: 5.2.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/12978/default_d871263d8798790404638a4d3692cc70b6389166.png
+  detection_source_url: Sample.WebApi/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: Microsoft.AspNet.WebPages
+  description: This package contains core runtime assemblies shared between ASP.NET
+    MVC and ASP.NET Web Pages
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebPages
+  version: 3.2.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/12947/default_d871263d8798790404638a4d3692cc70b6389166.png
+  detection_source_url: Sample.Application/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+  description: Replacement CodeDOM providers that use the new .NET Compiler Platform
+  package_url: https://www.nuget.org/Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+  version: 2.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/13106/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
+  detection_source_url: Sample.Web/packages.config
+  detection_source: Sample.Web/packages.config
+- name: Microsoft.Owin
+  description: Provides a set of helper types and abstractions for simplifying the
+    creation of OWIN components
+  package_url: https://www.nuget.org/Microsoft.Owin
+  version: 4.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/12889/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: Sample.Core/packages.config
+  detection_source: Sample.WebApi/packages.config
+  vulnerabilities:
+  - name: Cookie parsing failure
+    cve_id: CVE-2020-1045
+    cve_url: https://github.com/advisories/GHSA-hxrm-9w7p-39cc
+    detected_date: Jul 8
+    severity: high
+    first_patched: 4.1.1
+  - name: " .NET Denial of Service Vulnerability"
+    cve_id: CVE-2022-29117
+    cve_url: https://github.com/advisories/GHSA-3rq8-h3gj-r5c6
+    detected_date: Aug 31
+    severity: high
+    first_patched: 4.2.2
+- name: Microsoft.Owin.Cors
+  description: This package contains the components to enable Cross-Origin Resource
+    Sharing
+  package_url: https://www.nuget.org/Microsoft.Owin.Cors
+  version: 4.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/13252/default_c8e572417e69bbdabda8ecc4a08c016319f24023.png
+  detection_source_url: Sample.WebApi/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: Microsoft.Owin.Host.SystemWeb
+  description: OWIN server that enables OWIN-based applications to run on IIS using
+    the ASP.NET request pipeline
+  package_url: https://www.nuget.org/Microsoft.Owin.Host.SystemWeb
+  version: 4.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/12970/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
+  detection_source_url: Sample.Core/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: Microsoft.Web.Infrastructure
+  description: This package contains the Microsoft.Web.Infrastructure assembly that
+    lets you dynamically register HTTP modules at run time
+  package_url: https://www.nuget.org/Microsoft.Web.Infrastructure
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/12927/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: Sample.Application/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: Newtonsoft.Json
+  description: Json.NET is a popular high-performance JSON framework for .NET
+  package_url: https://www.nuget.org/Newtonsoft.Json
+  version: 9.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/nuget/image.png
+  detection_source_url: Sample.Core/packages.config
+  detection_source: Sample.WebApi/packages.config
+  vulnerabilities:
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
+    detected_date: Jun 23
+    severity: high
+    first_patched: 13.0.1
+- name: Owin
+  description: OWIN IAppBuilder startup interface
+  package_url: https://www.nuget.org/Owin
+  version: '1.0'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/12932/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: Sample.Core/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: System.Diagnostics.DiagnosticSource
+  description: Provides Classes that allow you to decouple code logging rich
+  package_url: https://www.nuget.org/System.Diagnostics.DiagnosticSource
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/13012/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: Sample.Core/packages.config
+  detection_source: Sample.WebApi/packages.config
+- name: WebGrease
+  description: Web Grease is a suite of tools for optimizing javascript
+  package_url: https://www.nuget.org/WebGrease
+  version: 1.6.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  imageURL: https://img.stackshare.io/package/13115/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: Sample.Web/packages.config
+  detection_source: Sample.Web/packages.config
+- name: "@angular-devkit/build-angular"
+  description: Angular Webpack Build Facade
+  package_url: https://www.npmjs.com/@angular-devkit/build-angular
+  version: 0.6.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 6.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@angular/cli"
+  description: CLI tool for Angular
+  package_url: https://www.npmjs.com/@angular/cli
+  version: 6.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 6.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 6.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 6.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 6.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@angular/http"
+  description: Angular - the http service
+  package_url: https://www.npmjs.com/@angular/http
+  version: 6.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15977/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@angular/language-service"
+  description: Angular - language services
+  package_url: https://www.npmjs.com/@angular/language-service
+  version: 6.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/16047/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 6.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 6.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 6.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@ng-bootstrap/ng-bootstrap"
+  description: Angular powered Bootstrap
+  package_url: https://www.npmjs.com/@ng-bootstrap/ng-bootstrap
+  version: 2.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/17486/default_10a98ebc0146ab94b0fde6f7013c1279c82e4135.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 2.8.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@types/jasminewd2"
+  description: TypeScript definitions for jasminewd2
+  package_url: https://www.npmjs.com/@types/jasminewd2
+  version: 2.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/16060/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 8.9.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: "@types/webpack-env"
+  description: TypeScript definitions for webpack
+  package_url: https://www.npmjs.com/@types/webpack-env
+  version: 1.13.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/16614/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: codelyzer
+  description: Linting for Angular applications
+  package_url: https://www.npmjs.com/codelyzer
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.5.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: date-fns
+  description: Modern JavaScript date utility library
+  package_url: https://www.npmjs.com/date-fns
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/16297/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 2.99.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: jasmine-spec-reporter
+  description: Spec reporter for jasmine behavior-driven development framework
+  package_url: https://www.npmjs.com/jasmine-spec-reporter
+  version: 4.2.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: karma-coverage-istanbul-reporter
+  description: A karma reporter that uses the latest istanbul 1.x APIs
+  package_url: https://www.npmjs.com/karma-coverage-istanbul-reporter
+  version: 1.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15998/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 1.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: karma-jasmine-html-reporter
+  description: A Karma plugin
+  package_url: https://www.npmjs.com/karma-jasmine-html-reporter
+  version: 0.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: rxjs-compat
+  description: '&lt;img src="doc/asset/Rx_Logo_S.png" alt="RxJS Logo" width="86" height="86"&gt;
+    RxJS: Reactive Extensions For JavaScript =================='
+  package_url: https://www.npmjs.com/rxjs-compat
+  version: 6.3.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/16746/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.8.26
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: Sample.Web/package-lock.json
+  detection_source: Sample.Web/package.json
