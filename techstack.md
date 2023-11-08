@@ -48,7 +48,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/Sample-ASP.NET-project](https://github.com/nice-org-two/Sample-ASP.NET-project)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|77<br/>Tools used|1<br/>Contributors|11/07/23 <br/>Report generated|11/14/18<br/>Last commit date|
+|77<br/>Tools used|1<br/>Contributors|11/08/23 <br/>Report generated|11/14/18<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -134,7 +134,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src=''/> Data (1)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (1)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/3251/no-img-open-source.png' alt='Entity Framework'>
@@ -223,71 +223,71 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[Antlr](https://github.com/antlr/antlrcs)|v3.5.0|N/A|N/A |Other|N/A|
-|[Autofac](https://autofac.org/)|v4.8.1|N/A|N/A |MIT|N/A|
-|[Autofac.Mvc5](http://autofac.org/)|v4.0.2|N/A|N/A |N/A|N/A|
-|[Autofac.WebApi2](https://autofac.org/)|v4.2.0|N/A|N/A |N/A|N/A|
-|[LinqKit](https://github.com/scottksmith95/LINQKit)|v1.1.15|N/A|N/A |MIT|N/A|
-|[Microsoft.ApplicationInsights](https://go.microsoft.com/fwlink/?LinkId=392727)|v2.8.0|N/A|N/A |MIT|N/A|
-|[Microsoft.ApplicationInsights.Agent.Intercept](http://go.microsoft.com/fwlink/?LinkId=392727)|v2.4.0|N/A|N/A |N/A|N/A|
-|[Microsoft.ApplicationInsights.DependencyCollector](https://go.microsoft.com/fwlink/?LinkId=392727)|v2.8.0|N/A|N/A |MIT|N/A|
-|[Microsoft.ApplicationInsights.PerfCounterCollector](https://go.microsoft.com/fwlink/?LinkId=392727)|v2.8.0|N/A|N/A |MIT|N/A|
-|[Microsoft.ApplicationInsights.Web](https://go.microsoft.com/fwlink/?LinkId=392727)|v2.8.0|N/A|N/A |MIT|N/A|
-|[Microsoft.ApplicationInsights.WindowsServer](https://go.microsoft.com/fwlink/?LinkId=392727)|v2.8.0|N/A|N/A |MIT|N/A|
-|[Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel](https://go.microsoft.com/fwlink/?LinkId=392727)|v2.8.0|N/A|N/A |MIT|N/A|
-|[Microsoft.AspNet.Cors](http://www.asp.net/)|v5.0.0|N/A|N/A |N/A|N/A|
-|[Microsoft.AspNet.Mvc](http://www.asp.net/)|v5.2.4|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.AspNet.Razor](http://www.asp.net/)|v3.2.4|N/A|N/A |Apache-2.0|N/A|
-|Microsoft.AspNet.Web.Optimization|v1.1.3|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.AspNet.WebApi](https://www.asp.net/web-api)|v5.2.6|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.AspNet.WebApi.Client](https://www.asp.net/web-api)|v5.2.6|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.AspNet.WebApi.Core](https://www.asp.net/web-api)|v5.2.6|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.AspNet.WebApi.WebHost](https://www.asp.net/web-api)|v5.2.6|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.AspNet.WebPages](https://www.asp.net/web-pages)|v3.2.4|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.CodeDom.Providers.DotNetCompilerPlatform](http://www.asp.net/)|v2.0.0|N/A|N/A |N/A|N/A|
-|[Microsoft.Owin](https://github.com/aspnet/AspNetKatana/)|v4.0.0|N/A|N/A |Apache-2.0|[CVE-2020-1045](https://github.com/advisories/GHSA-hxrm-9w7p-39cc) (High)<br/>[CVE-2022-29117](https://github.com/advisories/GHSA-3rq8-h3gj-r5c6) (High)|
-|[Microsoft.Owin.Cors](https://github.com/aspnet/AspNetKatana/)|v4.0.0|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.Owin.Host.SystemWeb](https://github.com/aspnet/AspNetKatana/)|v4.0.0|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.Web.Infrastructure](http://www.asp.net)|v1.0.0|N/A|N/A |N/A|N/A|
-|[Newtonsoft.Json](https://www.newtonsoft.com/json)|v9.0.1|N/A|N/A |MIT|[](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
-|[Owin](https://github.com/owin-contrib/owin-hosting/)|v1.0|N/A|N/A |Apache-2.0|N/A|
-|[System.Diagnostics.DiagnosticSource](https://github.com/dotnet/corefx)|v4.5.0|N/A|N/A |MIT|N/A|
-|[WebGrease](http://webgrease.codeplex.com/)|v1.6.0|N/A|N/A |Apache-2.0|N/A|
+|[Antlr](https://www.nuget.org/Antlr)|v3.5.0|N/A|N/A |Other|N/A|
+|[Autofac](https://www.nuget.org/Autofac)|v4.8.1|N/A|N/A |MIT|N/A|
+|[Autofac.Mvc5](https://www.nuget.org/Autofac.Mvc5)|v4.0.2|N/A|N/A |N/A|N/A|
+|[Autofac.WebApi2](https://www.nuget.org/Autofac.WebApi2)|v4.2.0|N/A|N/A |N/A|N/A|
+|[LinqKit](https://www.nuget.org/LinqKit)|v1.1.15|N/A|N/A |MIT|N/A|
+|[Microsoft.ApplicationInsights](https://www.nuget.org/Microsoft.ApplicationInsights)|v2.8.0|N/A|N/A |MIT|N/A|
+|[Microsoft.ApplicationInsights.Agent.Intercept](https://www.nuget.org/Microsoft.ApplicationInsights.Agent.Intercept)|v2.4.0|N/A|N/A |N/A|N/A|
+|[Microsoft.ApplicationInsights.DependencyCollector](https://www.nuget.org/Microsoft.ApplicationInsights.DependencyCollector)|v2.8.0|N/A|N/A |MIT|N/A|
+|[Microsoft.ApplicationInsights.PerfCounterCollector](https://www.nuget.org/Microsoft.ApplicationInsights.PerfCounterCollector)|v2.8.0|N/A|N/A |MIT|N/A|
+|[Microsoft.ApplicationInsights.Web](https://www.nuget.org/Microsoft.ApplicationInsights.Web)|v2.8.0|N/A|N/A |MIT|N/A|
+|[Microsoft.ApplicationInsights.WindowsServer](https://www.nuget.org/Microsoft.ApplicationInsights.WindowsServer)|v2.8.0|N/A|N/A |MIT|N/A|
+|[Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel](https://www.nuget.org/Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel)|v2.8.0|N/A|N/A |MIT|N/A|
+|[Microsoft.AspNet.Cors](https://www.nuget.org/Microsoft.AspNet.Cors)|v5.0.0|N/A|N/A |N/A|N/A|
+|[Microsoft.AspNet.Mvc](https://www.nuget.org/Microsoft.AspNet.Mvc)|v5.2.4|N/A|N/A |Apache-2.0|N/A|
+|[Microsoft.AspNet.Razor](https://www.nuget.org/Microsoft.AspNet.Razor)|v3.2.4|N/A|N/A |Apache-2.0|N/A|
+|[Microsoft.AspNet.Web.Optimization](https://www.nuget.org/Microsoft.AspNet.Web.Optimization)|v1.1.3|N/A|N/A |Apache-2.0|N/A|
+|[Microsoft.AspNet.WebApi](https://www.nuget.org/Microsoft.AspNet.WebApi)|v5.2.6|N/A|N/A |Apache-2.0|N/A|
+|[Microsoft.AspNet.WebApi.Client](https://www.nuget.org/Microsoft.AspNet.WebApi.Client)|v5.2.6|N/A|N/A |Apache-2.0|N/A|
+|[Microsoft.AspNet.WebApi.Core](https://www.nuget.org/Microsoft.AspNet.WebApi.Core)|v5.2.6|N/A|N/A |Apache-2.0|N/A|
+|[Microsoft.AspNet.WebApi.WebHost](https://www.nuget.org/Microsoft.AspNet.WebApi.WebHost)|v5.2.6|N/A|N/A |Apache-2.0|N/A|
+|[Microsoft.AspNet.WebPages](https://www.nuget.org/Microsoft.AspNet.WebPages)|v3.2.4|N/A|N/A |Apache-2.0|N/A|
+|[Microsoft.CodeDom.Providers.DotNetCompilerPlatform](https://www.nuget.org/Microsoft.CodeDom.Providers.DotNetCompilerPlatform)|v2.0.0|N/A|N/A |N/A|N/A|
+|[Microsoft.Owin](https://www.nuget.org/Microsoft.Owin)|v4.0.0|N/A|N/A |Apache-2.0|[CVE-2020-1045](https://github.com/advisories/GHSA-hxrm-9w7p-39cc) (High)<br/>[CVE-2022-29117](https://github.com/advisories/GHSA-3rq8-h3gj-r5c6) (High)|
+|[Microsoft.Owin.Cors](https://www.nuget.org/Microsoft.Owin.Cors)|v4.0.0|N/A|N/A |Apache-2.0|N/A|
+|[Microsoft.Owin.Host.SystemWeb](https://www.nuget.org/Microsoft.Owin.Host.SystemWeb)|v4.0.0|N/A|N/A |Apache-2.0|N/A|
+|[Microsoft.Web.Infrastructure](https://www.nuget.org/Microsoft.Web.Infrastructure)|v1.0.0|N/A|N/A |N/A|N/A|
+|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v9.0.1|N/A|N/A |MIT|[](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
+|[Owin](https://www.nuget.org/Owin)|v1.0|N/A|N/A |Apache-2.0|N/A|
+|[System.Diagnostics.DiagnosticSource](https://www.nuget.org/System.Diagnostics.DiagnosticSource)|v4.5.0|N/A|N/A |MIT|N/A|
+|[WebGrease](https://www.nuget.org/WebGrease)|v1.6.0|N/A|N/A |Apache-2.0|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (29)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@angular-devkit/build-angular](https://github.com/angular/angular-cli)|v0.6.8|N/A|N/A |MIT|N/A|
-|[@angular/animations](https://github.com/angular/angular)|v6.1.10|N/A|N/A |MIT|N/A|
-|[@angular/cli](https://github.com/angular/angular-cli)|v6.0.5|N/A|N/A |MIT|N/A|
-|[@angular/common](https://github.com/angular/angular)|v6.1.10|N/A|N/A |MIT|N/A|
-|[@angular/compiler](https://github.com/angular/angular)|v6.1.10|N/A|N/A |MIT|N/A|
-|[@angular/compiler-cli](https://github.com/angular/angular/tree/master/packages/compiler-cli)|v6.0.3|N/A|N/A |MIT|N/A|
-|[@angular/forms](https://github.com/angular/angular)|v6.1.10|N/A|N/A |MIT|N/A|
-|[@angular/http](https://github.com/angular/angular)|v6.1.10|N/A|N/A |MIT|N/A|
-|[@angular/language-service](https://github.com/angular/angular)|v6.0.3|N/A|N/A |MIT|N/A|
-|[@angular/platform-browser](https://github.com/angular/angular)|v6.1.10|N/A|N/A |MIT|N/A|
-|[@angular/platform-browser-dynamic](https://github.com/angular/angular)|v6.1.10|N/A|N/A |MIT|N/A|
-|[@angular/router](https://github.com/angular/angular/tree/master/packages/router)|v6.1.10|N/A|N/A |MIT|N/A|
-|[@ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap)|v2.1.2|N/A|N/A |MIT|N/A|
-|[@types/jasmine](http://definitelytyped.org/)|v2.8.11|N/A|N/A |MIT|N/A|
-|[@types/jasminewd2](http://definitelytyped.org/)|v2.0.6|N/A|N/A |MIT|N/A|
-|[@types/node](http://definitelytyped.org/)|v8.9.5|N/A|N/A |MIT|N/A|
-|[@types/webpack-env](http://definitelytyped.org/)|v1.13.6|N/A|N/A |MIT|N/A|
-|[codelyzer](https://github.com/mgechev/codelyzer)|v4.5.0|N/A|N/A |MIT|N/A|
-|[core-js](https://github.com/zloirock/core-js)|v2.5.7|N/A|N/A |MIT|N/A|
-|[date-fns](https://github.com/date-fns/date-fns)|v2.0.0|N/A|N/A |MIT|N/A|
-|[jasmine-core](https://jasmine.github.io)|v2.99.1|N/A|N/A |MIT|N/A|
-|[jasmine-spec-reporter](https://github.com/bcaudan/jasmine-spec-reporter)|v4.2.1|N/A|N/A |Apache-2.0|N/A|
-|[karma-chrome-launcher](https://github.com/karma-runner/karma-chrome-launcher)|v2.2.0|N/A|N/A |MIT|N/A|
-|[karma-coverage-istanbul-reporter](https://github.com/mattlewis92/karma-coverage-istanbul-reporter)|v1.4.3|N/A|N/A |MIT|N/A|
-|[karma-jasmine](https://github.com/karma-runner/karma-jasmine)|v1.1.2|N/A|N/A |MIT|N/A|
-|[karma-jasmine-html-reporter](https://github.com/dfederm/karma-jasmine-html-reporter)|v0.2.2|N/A|N/A |MIT|N/A|
-|rxjs-compat|v6.3.3|N/A|N/A |Apache-2.0|N/A|
-|[ts-node](https://github.com/TypeStrong/ts-node)|v4.1.0|N/A|N/A |MIT|N/A|
-|[zone.js](https://github.com/angular/angular)|v0.8.26|N/A|N/A |MIT|N/A|
+|[@angular-devkit/build-angular](https://www.npmjs.com/@angular-devkit/build-angular)|v0.6.8|N/A|N/A |MIT|N/A|
+|[@angular/animations](https://www.npmjs.com/@angular/animations)|v6.1.10|N/A|N/A |MIT|N/A|
+|[@angular/cli](https://www.npmjs.com/@angular/cli)|v6.0.5|N/A|N/A |MIT|N/A|
+|[@angular/common](https://www.npmjs.com/@angular/common)|v6.1.10|N/A|N/A |MIT|N/A|
+|[@angular/compiler](https://www.npmjs.com/@angular/compiler)|v6.1.10|N/A|N/A |MIT|N/A|
+|[@angular/compiler-cli](https://www.npmjs.com/@angular/compiler-cli)|v6.0.3|N/A|N/A |MIT|N/A|
+|[@angular/forms](https://www.npmjs.com/@angular/forms)|v6.1.10|N/A|N/A |MIT|N/A|
+|[@angular/http](https://www.npmjs.com/@angular/http)|v6.1.10|N/A|N/A |MIT|N/A|
+|[@angular/language-service](https://www.npmjs.com/@angular/language-service)|v6.0.3|N/A|N/A |MIT|N/A|
+|[@angular/platform-browser](https://www.npmjs.com/@angular/platform-browser)|v6.1.10|N/A|N/A |MIT|N/A|
+|[@angular/platform-browser-dynamic](https://www.npmjs.com/@angular/platform-browser-dynamic)|v6.1.10|N/A|N/A |MIT|N/A|
+|[@angular/router](https://www.npmjs.com/@angular/router)|v6.1.10|N/A|N/A |MIT|N/A|
+|[@ng-bootstrap/ng-bootstrap](https://www.npmjs.com/@ng-bootstrap/ng-bootstrap)|v2.1.2|N/A|N/A |MIT|N/A|
+|[@types/jasmine](https://www.npmjs.com/@types/jasmine)|v2.8.11|N/A|N/A |MIT|N/A|
+|[@types/jasminewd2](https://www.npmjs.com/@types/jasminewd2)|v2.0.6|N/A|N/A |MIT|N/A|
+|[@types/node](https://www.npmjs.com/@types/node)|v8.9.5|N/A|N/A |MIT|N/A|
+|[@types/webpack-env](https://www.npmjs.com/@types/webpack-env)|v1.13.6|N/A|N/A |MIT|N/A|
+|[codelyzer](https://www.npmjs.com/codelyzer)|v4.5.0|N/A|N/A |MIT|N/A|
+|[core-js](https://www.npmjs.com/core-js)|v2.5.7|N/A|N/A |MIT|N/A|
+|[date-fns](https://www.npmjs.com/date-fns)|v2.0.0|N/A|N/A |MIT|N/A|
+|[jasmine-core](https://www.npmjs.com/jasmine-core)|v2.99.1|N/A|N/A |MIT|N/A|
+|[jasmine-spec-reporter](https://www.npmjs.com/jasmine-spec-reporter)|v4.2.1|N/A|N/A |Apache-2.0|N/A|
+|[karma-chrome-launcher](https://www.npmjs.com/karma-chrome-launcher)|v2.2.0|N/A|N/A |MIT|N/A|
+|[karma-coverage-istanbul-reporter](https://www.npmjs.com/karma-coverage-istanbul-reporter)|v1.4.3|N/A|N/A |MIT|N/A|
+|[karma-jasmine](https://www.npmjs.com/karma-jasmine)|v1.1.2|N/A|N/A |MIT|N/A|
+|[karma-jasmine-html-reporter](https://www.npmjs.com/karma-jasmine-html-reporter)|v0.2.2|N/A|N/A |MIT|N/A|
+|[rxjs-compat](https://www.npmjs.com/rxjs-compat)|v6.3.3|N/A|N/A |Apache-2.0|N/A|
+|[ts-node](https://www.npmjs.com/ts-node)|v4.1.0|N/A|N/A |MIT|N/A|
+|[zone.js](https://www.npmjs.com/zone.js)|v0.8.26|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>
