@@ -1,54 +1,60 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 nice-org-two/Sample-ASP.NET-project is built on the following main stack:
-- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+
+- [ASP.NET](https://www.asp.net/) – Languages
 - [C#](http://csharp.net) – Languages
-- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Karma](http://karma-runner.github.io/) – Browser Testing
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [Angular](https://angular.io) – Javascript MVC Frameworks
+- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
 - [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
-- [Angular](https://angular.io) – Javascript MVC Frameworks
+- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- [Karma](http://karma-runner.github.io/) – Browser Testing
+- [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
 - [TSLint](https://github.com/palantir/tslint) – Code Review
-- [ASP.NET](https://www.asp.net/) – Languages
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 nice-org-two/Sample-ASP.NET-project is built on the following main stack:
-- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+
+- <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/1754/protractor-logo1.png' alt='Protractor'/> [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg' alt='Angular'/> [Angular](https://angular.io) – Javascript MVC Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/3251/no-img-open-source.png' alt='Entity Framework'/> [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg' alt='Angular'/> [Angular](https://angular.io) – Javascript MVC Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/1754/protractor-logo1.png' alt='Protractor'/> [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/Sample-ASP.NET-project](https://github.com/nice-org-two/Sample-ASP.NET-project)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|77<br/>Tools used|11/13/23 <br/>Report generated|
+|77<br/>Tools used|03/28/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -216,13 +222,28 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
+## Other (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'>
+  <br>
+  <sub><a href="https://date-fns.org/">date-fns</a></sub>
+  <br>
+  <sub></sub>
+</td>
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (59)</h2>
+</tr>
+</table>
+
+
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (58)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg'/> NuGet (30)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
+|[Microsoft.Owin](https://www.nuget.org/Microsoft.Owin)|v4.0.0|11/13/18|nkovacic |Apache-2.0|[CVE-2020-1045](https://github.com/advisories/GHSA-hxrm-9w7p-39cc) (High)<br/>[CVE-2022-29117](https://github.com/advisories/GHSA-3rq8-h3gj-r5c6) (High)|
+|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v9.0.1|11/13/18|nkovacic |MIT|[CVE-2024-21907](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)<br/>[](https://github.com/advisories/GHSA-8rfx-6mr3-5jh3) (High)|
 |[Antlr](https://www.nuget.org/Antlr)|v3.5.0|11/12/18|nkovacic |Other|N/A|
 |[Autofac](https://www.nuget.org/Autofac)|v4.8.1|11/12/18|nkovacic |MIT|N/A|
 |[Autofac.Mvc5](https://www.nuget.org/Autofac.Mvc5)|v4.0.2|11/12/18|nkovacic |N/A|N/A|
@@ -245,17 +266,15 @@ Full tech stack [here](/techstack.md)
 |[Microsoft.AspNet.WebApi.WebHost](https://www.nuget.org/Microsoft.AspNet.WebApi.WebHost)|v5.2.6|11/13/18|nkovacic |Apache-2.0|N/A|
 |[Microsoft.AspNet.WebPages](https://www.nuget.org/Microsoft.AspNet.WebPages)|v3.2.4|11/12/18|nkovacic |Apache-2.0|N/A|
 |[Microsoft.CodeDom.Providers.DotNetCompilerPlatform](https://www.nuget.org/Microsoft.CodeDom.Providers.DotNetCompilerPlatform)|v2.0.0|11/13/18|nkovacic |N/A|N/A|
-|[Microsoft.Owin](https://www.nuget.org/Microsoft.Owin)|v4.0.0|11/13/18|nkovacic |Apache-2.0|[CVE-2020-1045](https://github.com/advisories/GHSA-hxrm-9w7p-39cc) (High)<br/>[CVE-2022-29117](https://github.com/advisories/GHSA-3rq8-h3gj-r5c6) (High)|
 |[Microsoft.Owin.Cors](https://www.nuget.org/Microsoft.Owin.Cors)|v4.0.0|11/13/18|nkovacic |Apache-2.0|N/A|
 |[Microsoft.Owin.Host.SystemWeb](https://www.nuget.org/Microsoft.Owin.Host.SystemWeb)|v4.0.0|11/13/18|nkovacic |Apache-2.0|N/A|
 |[Microsoft.Web.Infrastructure](https://www.nuget.org/Microsoft.Web.Infrastructure)|v1.0.0|11/12/18|nkovacic |N/A|N/A|
-|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v9.0.1|11/13/18|nkovacic |MIT|[](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
 |[Owin](https://www.nuget.org/Owin)|v1.0|11/12/18|nkovacic |Apache-2.0|N/A|
 |[System.Diagnostics.DiagnosticSource](https://www.nuget.org/System.Diagnostics.DiagnosticSource)|v4.5.0|11/12/18|nkovacic |MIT|N/A|
 |[WebGrease](https://www.nuget.org/WebGrease)|v1.6.0|11/12/18|nkovacic |Apache-2.0|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (29)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (28)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -278,7 +297,6 @@ Full tech stack [here](/techstack.md)
 |[@types/webpack-env](https://www.npmjs.com/@types/webpack-env)|v1.13.6|11/13/18|nkovacic |MIT|N/A|
 |[codelyzer](https://www.npmjs.com/codelyzer)|v4.5.0|11/13/18|nkovacic |MIT|N/A|
 |[core-js](https://www.npmjs.com/core-js)|v2.5.7|11/13/18|nkovacic |MIT|N/A|
-|[date-fns](https://www.npmjs.com/date-fns)|v2.0.0|11/13/18|nkovacic |MIT|N/A|
 |[jasmine-core](https://www.npmjs.com/jasmine-core)|v2.99.1|11/13/18|nkovacic |MIT|N/A|
 |[jasmine-spec-reporter](https://www.npmjs.com/jasmine-spec-reporter)|v4.2.1|11/13/18|nkovacic |Apache-2.0|N/A|
 |[karma-chrome-launcher](https://www.npmjs.com/karma-chrome-launcher)|v2.2.0|11/13/18|nkovacic |MIT|N/A|
@@ -292,4 +310,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
